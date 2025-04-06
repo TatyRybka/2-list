@@ -54,6 +54,16 @@ footer {
     background-color:#2a2622;
     padding:5px 5px 5px 20px;
 }
+
 footer p {
     background-color: #474747;
+}
+
+.o {
+    text-decoration: none;
+    color:aliceblue;
+    margin-left:15px;
+    font-size:45px;
+    border:solid 2px aliceblue;
+    padding:10px;
 }
